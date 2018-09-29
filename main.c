@@ -1,0 +1,1 @@
+Je code comme un gars qui connait le C
